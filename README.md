@@ -57,4 +57,6 @@ Funciona melhor com fundos uniformes e boa iluminação
 Apenas uma mão é detectada por vez (a primeira reconhecida).
 
 
-Desenvolvido por Victor e Geovanna
+Desenvolvido por:
+Victor Camargo Maciel - RM98384 e
+Geovanna Silva Cunha - RM97736
